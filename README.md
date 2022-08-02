@@ -1,5 +1,11 @@
 # Feast Load Test Proxy
 
+## Deprecation
+
+Note that this repo is out of date. Please see [here](https://github.com/feast-dev/feast-benchmarks) for the latest benchmarks.
+
+## Load test
+
 This simple Go service generates load as part of the Feast testing suite. It sits between an HTTP based load testing tool as follows:
 
 ```
